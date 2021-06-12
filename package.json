@@ -1,5 +1,5 @@
 {
-  "name": "react-native-numeric-input",
+  "name": "react-native-numeric-input-counter",
   "version": "1.9.0",
   "description": "a stylish numeric input for react native",
   "main": "index.js",
@@ -21,16 +21,16 @@
     "numeric"
   ],
   "author": {
-    "name": "omri himelbrand",
-    "email": "himelbrand@gmail.com"
+    "name": "Adam Beleko",
+    "email": "bossbele@larven.co.tz"
   },
-  "homepage": "https://github.com/himelbrand/react-native-numeric-input",
+  "homepage": "https://github.com/BossBele/react-native-numeric-input-counter",
   "bugs": {
-    "url": "https://github.com/himelbrand/react-native-numeric-input/issues"
+    "url": "https://github.com/himelbrand/react-native-numeric-input-counter/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/himelbrand/react-native-numeric-input.git"
+    "url": "git://github.com/himelbrand/react-native-numeric-input-counter.git"
   },
   "license": "MIT",
   "dependencies": {
