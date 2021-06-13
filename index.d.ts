@@ -1,4 +1,4 @@
-declare module 'react-native-numeric-input' {
+declare module 'react-native-numeric-input-counter' {
   import { ViewStyle } from 'react-native'
   import { Color } from 'csstype'
 
