@@ -95,13 +95,15 @@ Name                                | Type                                | Defa
 **minValue**                        |`number`                             | none
 **maxValue**                        |`number`                             | none
 **step**                            |`number`                             | 1
-**valueType**                       |`'integer'` or `'real'`                  | `'integer'`
+**valueType**                       |`'integer'` or `'real'`              | `'integer'`
 **initValue**                       |`number`                             | null if not used will start at 0
 **iconSize**                        |`number`                             | calcSize(30)
+**decrementIconName**               |`string`                             | `'md-remove'` or`'ios-arrow-down'`
+**incrementIconName**               |`string`                             | `'md-add'` or `'ios-arrow-up'`
 **borderColor**                     |`string`                             | `'#d4d4d4'`
 **iconStyle**                       |`object`                             | none
 **totalWidth**                      |`number`                             | calcSize(220)
-**separatorWidth**                   |`number`                             | 1
+**separatorWidth**                  |`number`                             | 1
 **type**                            |`'plus-minus'` or `'up-down'`        | `'plus-minus'`
 **rounded**                         |`boolean`                            | false
 **textColor**                       |`string`                             | `'black'`
