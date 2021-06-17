@@ -12,6 +12,8 @@ declare module 'react-native-numeric-input-counter' {
     iconSize?: number
     borderColor?: Color
     iconStyle?: ViewStyle
+    decrementIconName?: string
+    incrementIconName?: string
     totalWidth?: number
     separatorWidth?: number
     type?: 'plus-minus' | 'up-down'
